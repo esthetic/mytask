@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android World</string>
+
+    <string name="events">EVENTS</string>
+    <string name="shops">SHOPS</string>
+    <string name="show_on_map">SHOW ON MAP</string>
+    <!-- Error strings -->
+    <string name="not_available">Not available</string>
+</resources>
